@@ -1,0 +1,242 @@
+{
+  "weeklyPlan": {
+    "1": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ],
+    "2": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ],
+    "3": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ],
+    "4": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ],
+    "5": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ],
+    "6": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ],
+    "7": [
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      },
+      {
+        "type": "Lunch",
+        "name": "Grilled Chicken Salad",
+        "calories": 300.0,
+        "carbs": 10.0,
+        "protein": 30.0,
+        "fat": 15.0
+      },
+      {
+        "type": "Dinner",
+        "name": "Vegetable Stir-Fry",
+        "calories": 200.0,
+        "carbs": 30.0,
+        "protein": 8.0,
+        "fat": 5.0
+      },
+      {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "calories": 150.0,
+        "carbs": 27.0,
+        "protein": 5.0,
+        "fat": 3.0
+      }
+    ]
+  }
+}

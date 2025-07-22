@@ -1,0 +1,28 @@
+.root {
+    -fx-background-color: #F5E5C0; /* Beige background */
+}
+
+.button {
+    -fx-background-color: #A8D5BA; /* Soft green for buttons */
+    -fx-text-fill: #5C4033; /* Brown text */
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-text-fill: #5C4033; /* Brown text */
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: #F5E5C0;
+}
+
+.tab-pane .tab {
+    -fx-background-color: #A8D5BA;
+}
+
+.tab-pane .tab:selected {
+    -fx-background-color: #D4A5A5; /* Soft pink for selected tab */
+}
