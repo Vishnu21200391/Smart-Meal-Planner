@@ -19,12 +19,12 @@ Forged with:
 
 ## Summon the App
 Ready to cast the spell? Follow these steps:
-1. **Clone the Realm**: `git clone https://github.com/Bellamkonda-Nokesh/Smart-Meal-Planner-Project.git`
+1. **Clone the Realm**: `git clone https:[//github.com//Smart-Meal-Planner-Project.git](https://github.com/Vishnu21200391/Smart-Meal-Planner)`
 2. **Install JDK 17**: Download from Oracle and set `JAVA_HOME`.
 3. **Open in Eclipse**: Use the 2024-09 version, import as a Maven project.
 4. **Run the Magic**: Right-click, Run As > Java Application, select `MainApp`.
 
 ## Behind the Scenes
-This journey conquered challenges like JSON serialization and module system riddles, blending cutting-edge tech with Ghibli charm. The project is organized into four key domains: GUI design, data management, meal planning logic, and nutritional analysis, each housed in dedicated folders (`nokesh_ui`, `sai_data`, `Sagar_logic`, `satish_analysis`) for a collaborative masterpiece.
+This journey conquered challenges like JSON serialization and module system riddles, blending cutting-edge tech with Ghibli charm. The project is organized into four key domains: GUI design, data management, meal planning logic, and nutritional analysis, each housed in dedicated folders (`nokesh_ui`, `M Bala Krishna Vishnu sai_data`, `Sagar_logic`, `satish_analysis`) for a collaborative masterpiece.
 
 🌟 **Star us** if this culinary magic inspires you! 🌟
